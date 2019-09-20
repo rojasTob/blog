@@ -1,4 +1,4 @@
-# README
+# My Blog
 
 Project Ruby on Rails
 
